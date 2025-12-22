@@ -1,4 +1,4 @@
-# 🚗 Uber Booking System - SRD
+# 🚗 Uber System - SRS
 
 A **Software Engineering practical project** that models a Transportation Booking System similar to ride-hailing applications.  
 The project focuses on **software analysis and design**, including UML diagrams such as **Use Case, Activity, Sequence, Class, and DFD diagrams**.
