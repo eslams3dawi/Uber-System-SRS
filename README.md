@@ -38,26 +38,49 @@ This repository contains **design-level artifacts only** (no implementation code
 
 ## 🗂️ Project Contents
 
-This repository includes the following diagrams (created using **draw.io**):
+All diagrams are located inside the **`Diagrams.pdf/`** directory and were created using **draw.io**.
 
-### 🔹 UML & Analysis Diagrams
+---
 
-- **Use Case Diagram**
-  - `Use case diagram.drawio.pdf`
+### 📌 Use Case Diagram
+- [Use case diagram (PDF)](Diagrams.pdf/Use%20case%20diagram.drawio.pdf)
 
-- **Class Diagram**
-  - `classDiagram.drawio.pdf`
+---
 
-- **Activity Diagrams**
-  - `Activity & sequence --- Login.drawio.pdf`
-  - `Activity & sequence --- Register.drawio.pdf`
-  - `Activity --- Customer's request booking and ...`
+### 📌 Class Diagram
+- [Class Diagram (PDF)](Diagrams.pdf/classDigram.drawio.pdf)
 
-- **Sequence Diagrams**
-  - `Sequence --- Customer's request booking ...`
+---
 
-- **Data Flow Diagrams (DFD)**
-  - `DFD --- DFD Level 0 & 1.drawio.pdf`
+### 📌 Activity Diagrams & Sequence Diagram
+
+#### 🔹 Login Flow
+- [Activity & Sequence – Login (PDF)](Diagrams.pdf/Activity%20%26%20sequence%20---Login.drawio.pdf)
+
+#### 🔹 Register Flow
+- [Activity & Sequence – Register (PDF)](Diagrams.pdf/Activity%20%26%20sequence%20---Register.drawio.pdf)
+
+#### 🔹 Customer Booking & Driver Acceptance Flow
+- [Activity – Customer Booking & Driver Acceptance (PDF)](Diagrams.pdf/Activity---Customer's%20request%20booking%20and%20Driver's%20acceptance%20flow.drawio.pdf)
+
+---
+
+### 📌 Sequence Diagram
+
+#### 🔹 Customer Booking & Driver Acceptance
+- [Sequence---Customer's request booking and Driver's acceptance flow.drawio (2))](Diagrams.pdf/Sequence---Customer's%20request%20booking%20and%20Driver's%20acceptance%20flow.drawio%20(2).pdf)
+
+---
+
+### 📌 Data Flow Diagrams (DFD)
+
+#### 🔹 Level 0 & Level 1
+- [DFD Level 0 & 1 (PDF)](Diagrams.pdf/DFD---DFD%20Level%200%20%26%201.drawio.pdf)
+
+---
+
+### 📌 Software Requirements Specification (SRS)
+- [Uber Booking System – SRS (PDF)](Diagrams.pdf/Uber%20Booking%20System%20-%20SRS.pdf)
 
 ---
 
